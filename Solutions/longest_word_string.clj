@@ -7,4 +7,4 @@
     (if (> (count a) (count b)) a b))
       (str/split s #" ")))
 
-(print (longestWord "The quick brown fox jumped overishfdsf the lazy dog"))
+(print (longestWord "The quick brown fox jumped over the lazy dog"))
